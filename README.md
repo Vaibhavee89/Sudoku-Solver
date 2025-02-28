@@ -1,6 +1,5 @@
 
 # Sudoku Solver
-demo
 This is a simple Sudoku solver application written in C++. It takes a 9x9 Sudoku puzzle as input and solves it using a backtracking algorithm.
 
 
